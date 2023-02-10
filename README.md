@@ -1,11 +1,11 @@
 # Simplilearn-Learners-Academy
 
-Administrative-portal-for-Learner-s-Academy
-Project' Details:
+<h2>Administrative-portal-for-Learner-s-Academy</h2>
+<h3>Project Details:</h3>
 
 This project aims to design and develop a backend administrative portal for the Learner’s Academy using Java EE technologies. I developed it as a project of phase 2 for the Become a back-end expert course. The goal of this project is to apply servlet, jsp and JDBC concepts.
 
-Product Backlog:
+<h3>Product Backlog:</h3>
 Create database and tables.
 Connect the database to the project.
 Create models classes.
@@ -15,7 +15,7 @@ Create JSP files for all pages of the project.
 Create a servlet to get requests and send responses to the JSP files.
 Debug and Test the project.
 
-Technologies and tools Used:
+<h3>Technologies and tools Used:</h3>
 • Servlet: to do the business logic and works a controller for the project.
 
 • JSP: to handle the presentation view.
@@ -28,11 +28,11 @@ Technologies and tools Used:
 
 • Tomcat: to run and deploy servlet application.
 
-Flowcharts of The Application:
+<h3>Flowcharts of The Application:</h3>
 
 ![Capture](https://user-images.githubusercontent.com/114357258/218197240-bd9744b2-6317-4da3-ba25-50c5e98d4cde.PNG)
 
-Core concepts used in the project:
+<h3>Core concepts used in the project:</h3>
 • Object-Oriented: used to create and model objects for users and their credentials.
 
 • Databases: used to store and retrieve data.
@@ -43,7 +43,7 @@ Core concepts used in the project:
 
 • Exception Handling: used to catch problems that arises in the code especially in I/O blocks.
 
-How to run the program
+<h3>How to run the program:</h3>
 • clone project and create a dynamic web project
 
 • Add the “mysql-connector-java-8.0.28.jar” file to the lib folder inside your project's WEB-INF folder.
@@ -56,7 +56,7 @@ How to run the program
 
 • To login you must enter admin for both username and password.
 
-Screenshots:
+<h3>Screenshots:</h3>
 ![image](https://user-images.githubusercontent.com/114357258/218196450-6bb6273a-8c9d-4f61-b690-35a0e10f078d.png)
 
 ![image](https://user-images.githubusercontent.com/114357258/218196517-86dcd17a-1090-47f4-a095-550dfab96812.png)
